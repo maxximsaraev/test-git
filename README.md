@@ -1,6 +1,6 @@
 # test-git
-git status
-git add [files] - добавляет файлы в stage
-git commit -m "comment" - commit = запись
-git log / git log --oneline
-git push [rep_link] [branch_name]
+1. git status
+2. git add [files] - добавляет файлы в stage
+3. git commit -m "comment" - commit = запись
+4. git log / git log --oneline
+5. git push [rep_link] [branch_name]
