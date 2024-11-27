@@ -7,3 +7,5 @@
 6. git diff
 7. git reset
 8. git reset --hard
+9. git branch name
+10. git checkout
