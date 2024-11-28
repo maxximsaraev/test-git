@@ -9,3 +9,4 @@
 8. git reset --hard
 9. git branch name
 10. git checkout
+11. git merge
